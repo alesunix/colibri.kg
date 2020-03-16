@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Crawl-delay: 1
+Host: http://colibri.kg/
+Sitemap: http://colibri.kg/sitemap.xml
